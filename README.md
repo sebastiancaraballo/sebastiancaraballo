@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**sebastiancaraballo/sebastiancaraballo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Sebastián, a passionate software engineer with expertise in Ruby on Rails, Python, React, and PostgreSQL. I enjoy tackling complex problems and building elegant solutions using cutting-edge technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**: Ruby, Python, JavaScript
+- **Frameworks**: Ruby on Rails, React
+- **Databases**: PostgreSQL
+
+## Get in Touch
+
+- **Email**: caraballosebastian@icloud.com
+- **LinkedIn**: [Sebastián Caraballo](https://www.linkedin.com/in/sebastiancaraballo/)
+- **Twitter**: [@scaraballo_](https://twitter.com/scaraballo_)
