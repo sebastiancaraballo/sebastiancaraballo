@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile
+# Hello 👋
 
 ## About Me
 
-Hello! I'm Sebastián, a passionate software engineer with expertise in Ruby on Rails, Python, React, and PostgreSQL. I enjoy tackling complex problems and building elegant solutions using cutting-edge technologies.
+I'm Sebastián, a passionate software engineer with expertise in Ruby on Rails, Python, React, and PostgreSQL. I enjoy tackling complex problems and building elegant solutions using cutting-edge technologies.
 
 ## Skills
 
