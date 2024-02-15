@@ -14,4 +14,3 @@ I'm Sebastián, a passionate software engineer with expertise in Ruby on Rails, 
 
 - **Email**: caraballosebastian@icloud.com
 - **LinkedIn**: [Sebastián Caraballo](https://www.linkedin.com/in/sebastiancaraballo/)
-- **Twitter**: [@scaraballo_](https://twitter.com/scaraballo_)
